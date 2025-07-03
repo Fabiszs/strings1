@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap');
 :root {
     --cor-destaque: #f7f0f2;
-    --cor-gradiente-preto: linear-gradient(113deg, #71871b 0%,#5b6d15 44.96%, #424f0f 100%);
+    --cor-gradiente-preto: linear-gradient(113deg, #71871b 0%,#5b6d15 44.96%, #323c0b 100%);
 }
 
 * {
